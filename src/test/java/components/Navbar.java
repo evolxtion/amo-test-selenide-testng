@@ -54,5 +54,5 @@ public class Navbar {
     public void switchToUkrainian() {
         ukrainianLink.click();
     }
-    
+
 }
